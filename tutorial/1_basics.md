@@ -41,7 +41,7 @@ Wir schreiben normalen Text. Einzelne Wörter können *kursiv* oder **fett** und
 
 ## Links 
 
-Die Standardisierung von Markdown heißt [CommonMark](https://commonmark.org).
+Die hier verwendete Standardisierung von Markdown heißt [CommonMark](https://commonmark.org).
 
 Das Logo von Markdown findet sich im [GitHub Repository][1] von dcurtis.
 
@@ -49,6 +49,4 @@ Das Logo von Markdown findet sich im [GitHub Repository][1] von dcurtis.
 
 [1]: https://github.com/dcurtis/markdown-mark
 [2]: https://github.com/dcurtis/markdown-mark/blob/master/png/208x128-solid.png
-
-
 
