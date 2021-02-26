@@ -4,9 +4,9 @@ Diese Datei enthält unsere ersten Schritte mit Markdown.
 
 Wir benutzen hier nur CommonMark.
 
-## Der erste Schrift: Überschriften
+## Der erste Schritt: Überschriften
 
-Unter-Überschriften können mit dem `##` (oder beliebig mehr `##`-Zeichen)
+Unter-Überschriften können mit dem `##` (oder beliebig mehr `#`-Zeichen)
 notiert werden.
 
 ## Der zweite Schritt: Aufzählungen
@@ -22,7 +22,7 @@ Was sind Beispiel für Markup Languages:
 
 Anleitung wie man Markdown Dateien erstellt:
 1. Editor öffnen
-   1) gvim
+   1. gvim
    2. emacs
    3. nano
    4. gedit
