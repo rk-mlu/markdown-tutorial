@@ -10,7 +10,7 @@ Die Youtube Videos finden sich hier:
 
 ## Weitere Informationen
 
-Hier finden sich weitere Information zu Markdown, CommonMark und GitHub-Flavored Markdown
+Hier finden sich weitere Informationen zu Markdown, CommonMark und GitHub-Flavored Markdown
 
 - Referenz-Implementation von [Markdown](http://daringfireball.net/projects/markdown/)
 - Markdown-Variante CommonMark: [Spezifikation][1], [Cheatsheet][2]
